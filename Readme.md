@@ -1,1 +1,2 @@
-Olá meus chapas!!!Eu sou o arquivo readme do git
+# Pratica01
+Pratica uc2833
